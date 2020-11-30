@@ -14,7 +14,7 @@ John's color style guide.
 | ![#ff6361](https://via.placeholder.com/40/ff6361/000000?text=+) | #ff6361 |
 | ![#ffa600](https://via.placeholder.com/40/ffa600/000000?text=+) | #ffa600 |
 
-## [Viz palette by Elijah Meeks & Susie Lu (6)]
+## [Viz palette by Elijah Meeks & Susie Lu (6)](https://projects.susielu.com/viz-palette?colors=[%22#4e79a7%22,%22#59a14f%22,%22#edc948%22,%22#e15759%22,%22#b07aa1%22,%22#ff9da7%22]&backgroundColor=%22#f2f7eb%22&fontColor=%22black%22&mode=%22normal%22)
 
 | Color | Hex |
 |-------|-----|
