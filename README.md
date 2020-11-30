@@ -49,7 +49,7 @@ John's color style guide.
 | ![#0868ac](https://via.placeholder.com/40/0868ac/000000?text=+) | `#0868ac` |
 
 
-## Baltimore Ravens purple (`#241773`) + [Munsell system (7)](http://projects.kumpf.cc/projects/MunsellForDesigners/index.html)
+## [Munsell system (7)](http://projects.kumpf.cc/projects/MunsellForDesigners/index.html) with Baltimore Ravens purple (`#241773`)
 
 | Color | Hex |
 |-------|-----|
