@@ -37,6 +37,19 @@ John's color style guide.
 | ![#41b6c4](https://via.placeholder.com/40/41b6c4/000000?text=+) | `#41b6c4` |
 | ![#225ea8](https://via.placeholder.com/40/225ea8/000000?text=+) | `#225ea8` |
 
+
+## [Colorbrewer2 PuRd (6)](https://colorbrewer2.org/#type=sequential&scheme=PuRd&n=6)
+
+| Color | Hex |
+|-------|-----|
+| ![#f1eef6](https://via.placeholder.com/40/f1eef6/000000?text=+) | `#f1eef6` |
+| ![#d4b9da](https://via.placeholder.com/40/d4b9da/000000?text=+) | `#d4b9da` | 
+| ![#c994c7](https://via.placeholder.com/40/c994c7/000000?text=+) | `#c994c7` |
+| ![#df65b0](https://via.placeholder.com/40/df65b0/000000?text=+) | `#df65b0` |
+| ![#dd1c77](https://via.placeholder.com/40/dd1c77/000000?text=+) | `#dd1c77` |
+| ![#980043](https://via.placeholder.com/40/980043/000000?text=+) | `#980043` |
+
+
 ## [Colorbrewer2 GnBu (6)](https://colorbrewer2.org/#type=sequential&scheme=GnBu&n=6)
 
 | Color | Hex |
