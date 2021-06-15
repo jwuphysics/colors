@@ -1,5 +1,17 @@
 # Colors
-John's color style guide.
+John's color style guide. You can visualize a custom color map using the [online tool here](https://share.streamlit.io/dhaitz/colormap-creator/main/app.py), or by using the following:
+
+```python
+from matplotlib.colors import LinearSegmentedColormap
+
+c0, c1, c2, c3, c4 = '#003f5c', '#58508d', '#bc5090', '#ff6361', '#ffa600'
+
+cmap = LinearSegmentedColormap.from_list(
+    'jw_cmap', 
+    [c0, c1, c2, c3, c4, c5], 
+    N=15
+)
+```
 
 
 # Qualitative
