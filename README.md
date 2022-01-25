@@ -13,6 +13,18 @@ cmap = LinearSegmentedColormap.from_list(
 )
 ```
 
+You also should be using [`cmasher`](https://github.com/1313e/CMasher), which gives you a way to convert colormaps into discrete color intervals ([example](https://cmasher.readthedocs.io/user/usage.html#taking-colormap-colors)):
+```python
+import cmasher as cmr
+
+colors = cmr.take_cmap_colors(
+    'cmr.rainforest', 
+    5, 
+    cmap_range=(0.15, 0.85), 
+    return_fmt='hex'
+)
+```
+
 
 # Qualitative
 
