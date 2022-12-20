@@ -32,11 +32,11 @@ colors = cmr.take_cmap_colors(
 
 | Color | Hex |
 |-------|-----|
-| ![#003f5c](https://via.placeholder.com/40/003f5c/000000?text=+) | `#003f5c` |
-| ![#58508d](https://via.placeholder.com/40/58508d/000000?text=+) | `#58508d` | 
-| ![#bc5090](https://via.placeholder.com/40/bc5090/000000?text=+) | `#bc5090` |
-| ![#ff6361](https://via.placeholder.com/40/ff6361/000000?text=+) | `#ff6361` |
-| ![#ffa600](https://via.placeholder.com/40/ffa600/000000?text=+) | `#ffa600` |
+| ![#003f5c](https://placehold.co/15x15/003f5c/003f5c.png) | `#003f5c` |
+| ![#58508d](https://placehold.co/15x15/58508d/58508d.png) | `#58508d` | 
+| ![#bc5090](https://placehold.co/15x15/bc5090/bc5090.png) | `#bc5090` |
+| ![#ff6361](https://placehold.co/15x15/ff6361/ff6361.png) | `#ff6361` |
+| ![#ffa600](https://placehold.co/15x15/ffa600/ffa600.png) | `#ffa600` |
 
 ## [Viz palette by Elijah Meeks & Susie Lu (6)](https://projects.susielu.com/viz-palette?colors=[%22#4e79a7%22,%22#59a14f%22,%22#edc948%22,%22#e15759%22,%22#b07aa1%22,%22#ff9da7%22]&backgroundColor=%22#f2f7eb%22&fontColor=%22black%22&mode=%22normal%22)
 
